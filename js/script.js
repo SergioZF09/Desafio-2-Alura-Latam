@@ -1,6 +1,4 @@
-let nombre = "";
-
-nombre = prompt("¿Cuál es tu nombre?");
+let nombre = prompt("¿Cuál es tu nombre?");
 let edad = parseInt(prompt("¿Cuántos años tienes?"));
 let lenguaje = prompt("¿Qué lenguaje de programación estás estudiando?");
 
